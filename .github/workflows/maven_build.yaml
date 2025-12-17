@@ -9,5 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+    - name: what java version
+      run: java -version
     - name: Build with Maven
       run: mvn clean package

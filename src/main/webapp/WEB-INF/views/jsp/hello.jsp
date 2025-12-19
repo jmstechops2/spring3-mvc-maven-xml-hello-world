@@ -42,21 +42,21 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>Jenkins</p>
+		<p>GIT</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>Docker</p>
+		<p>LINUX</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>Kubernetes </p>
+		<p>GITHUB ACTIONS</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
